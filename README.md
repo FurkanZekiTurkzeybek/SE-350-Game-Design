@@ -1,6 +1,6 @@
 # SE-350-Game-Design
 
-<img src="images/welcome.png" width="720" height="480">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png" width="720" height="480">
 
 This is our 2D Platformer Game. 2D Platformer Last.zip is a final document for our game.
 
